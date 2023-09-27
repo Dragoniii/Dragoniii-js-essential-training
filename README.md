@@ -1,0 +1,1 @@
+Curso em andamento em: https://www.linkedin.com/learning/javascript-essential-training/objects-a-practical-introduction?u=57692769. 
