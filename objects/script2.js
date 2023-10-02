@@ -1,4 +1,5 @@
-const schedule = {
+/* 
+    const schedule = {
     sunday: "free",
     monday: "work from home",
     tuesday: "work at office",
@@ -21,3 +22,6 @@ schedule.appointment("thursday", "do");
 schedule.appointment("friday", "do");
 schedule.appointment("saturday", "do");
 console.log(schedule);
+*/
+
+//O correto é colocar o método na classe. 

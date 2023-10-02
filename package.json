@@ -1,0 +1,11 @@
+{
+  "name": "tsc",
+  "version": "1.0.0",
+  "description": "Curso em andamento em: https://www.linkedin.com/learning/javascript-essential-training/objects-a-practical-introduction?u=57692769.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
