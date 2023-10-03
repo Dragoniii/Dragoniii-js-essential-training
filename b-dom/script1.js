@@ -13,9 +13,4 @@ const getCurrentYear = () => new Date().getFullYear();
 
 const cameraAge = (year) => getCurrentYear() - year;
 
-const cameraHTML = (myCamera) => {
-    const cameraStory = `My camera is a ${myCamera.brand} ${myCamera.model} made in ${myCamera.year} making it ${cameraAge(myCamera.year)} years old. It's a ${myCamera.format} camera with a ${myCamera.lens} lens using ${myCamera.filmType} film.`;
-    return cameraStory;
-}    
-
 document.body.innerHTML = `My camera is a ${myCamera.brand} ${myCamera.model} made in ${myCamera.year} making it ${cameraAge(myCamera.year)} years old. It's a ${myCamera.format} camera with a ${myCamera.lens} lens using ${myCamera.filmType} film.`;
